@@ -1,0 +1,308 @@
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.exe
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.deps.json
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.runtimeconfig.json
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.AssemblyReference.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GirisEkrani.resources
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.Properties.Resources.resources
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.GenerateResource.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfoInputs.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfo.cs
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CoreCompileInputs.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CopyComplete
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\refint\FiftyShadesOfErrorList_UI.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.genruntimeconfig.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\ref\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.exe
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.deps.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.runtimeconfig.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.AssemblyReference.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GirisEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.Properties.Resources.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.GenerateResource.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfoInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfo.cs
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CoreCompileInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CopyComplete
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\refint\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.genruntimeconfig.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\ref\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KayitEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AdminEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKullaniciIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBesinIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKategoriIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmTalepSikayetIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KullaniciEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBeslenmeGecmisi.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIdealKiloHesapla.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIstekSikayet.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKisiselBilgiIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmOgunEkle.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmSuTakibi.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll.config
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.AssemblyReference.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBesinIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKategoriIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKullaniciIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmTalepSikayetIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AdminEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GirisEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KayitEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KullaniciEkrani.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.Properties.Resources.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBeslenmeGecmisi.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIdealKiloHesapla.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIstekSikayet.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKisiselBilgiIslemleri.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmOgunEkle.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmSuTakibi.resources
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.GenerateResource.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfoInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfo.cs
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CoreCompileInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\refint\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.exe
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll.config
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.deps.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.runtimeconfig.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CopyComplete
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.genruntimeconfig.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\ref\FiftyShadesOfErrorList_UI.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KullaniciOgunGrafik.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.exe
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll.config
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.deps.json
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.runtimeconfig.json
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Castle.Core.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_SERVICE.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DAL.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\bin\Debug\net6.0-windows\FiftyShadesOfErrorList_DATA.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.AssemblyReference.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBesinIslemleri.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKategoriIslemleri.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKullaniciIslemleri.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmTalepSikayetIslemleri.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AdminEkrani.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GirisEkrani.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KayitEkrani.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KullaniciEkrani.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.KullaniciOgunGrafik.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.Properties.Resources.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmBeslenmeGecmisi.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIdealKiloHesapla.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmIstekSikayet.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmKisiselBilgiIslemleri.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmOgunEkle.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.UserControls.frmSuTakibi.resources
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.GenerateResource.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfoInputs.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.AssemblyInfo.cs
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CoreCompileInputs.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.csproj.CopyComplete
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\refint\FiftyShadesOfErrorList_UI.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\FiftyShadesOfErrorList_UI.genruntimeconfig.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_UI\obj\Debug\net6.0-windows\ref\FiftyShadesOfErrorList_UI.dll

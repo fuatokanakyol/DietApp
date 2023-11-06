@@ -1,0 +1,68 @@
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.deps.json
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.AssemblyReference.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfoInputs.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfo.cs
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CopyComplete
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\refint\FiftyShadesOfErrorList_DAL.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\ref\FiftyShadesOfErrorList_DAL.dll
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.runtimeconfig.json
+C:\Users\Bünyamin\OneDrive\Masaüstü\BigeadamEgitim\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.genruntimeconfig.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.deps.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.runtimeconfig.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.AssemblyReference.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfoInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfo.cs
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CoreCompileInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CopyComplete
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\refint\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.genruntimeconfig.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\ref\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.deps.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.runtimeconfig.json
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.AssemblyReference.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfoInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfo.cs
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CoreCompileInputs.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CopyComplete
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\refint\FiftyShadesOfErrorList_DAL.dll
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.genruntimeconfig.cache
+C:\Users\YILDIZ\Desktop\FiftyShadesOfErrorList - YeniCalismayan\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\ref\FiftyShadesOfErrorList_DAL.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.deps.json
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.runtimeconfig.json
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\bin\Debug\net6.0\FiftyShadesOfErrorList_DATA.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.AssemblyReference.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfoInputs.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.AssemblyInfo.cs
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CoreCompileInputs.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.csproj.CopyComplete
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\refint\FiftyShadesOfErrorList_DAL.dll
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.pdb
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\FiftyShadesOfErrorList_DAL.genruntimeconfig.cache
+D:\bilgeAdam\efproje\FiftyShadesOfErrorList - EnSonHali\FiftyShadesOfErrorList\FiftyShadesOfErrorList_DAL\obj\Debug\net6.0\ref\FiftyShadesOfErrorList_DAL.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FiftyShadesOfErrorList_CRUD/1.0.0": {
+        "runtime": {
+          "FiftyShadesOfErrorList_CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiftyShadesOfErrorList_CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

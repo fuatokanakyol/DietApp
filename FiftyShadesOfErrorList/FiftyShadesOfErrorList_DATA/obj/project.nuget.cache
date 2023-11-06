@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDJptt9yc664NY+eHq3wVLo7TY3Z9dp/SKBrtvdxj5GRwVD/eF3/o5ZdQxaXDTr6S4JebFzYxJ9upywyym2L3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fuato\\Desktop\\DietMade\\FiftyShadesOfErrorList\\FiftyShadesOfErrorList\\FiftyShadesOfErrorList_DATA\\FiftyShadesOfErrorList_DATA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fuato\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\fuato\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

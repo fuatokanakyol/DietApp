@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminControls\frmBesinIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayitEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KullaniciEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminControls\frmKategoriIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminControls\frmKullaniciIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminControls\frmTalepSikayetIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="KullaniciOgunGrafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmBeslenmeGecmisi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmIdealKiloHesapla.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmIstekSikayet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmKisiselBilgiIslemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmOgunEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\frmSuTakibi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
